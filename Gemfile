@@ -51,3 +51,5 @@ group :test do
   # Easy installation and use of web drivers to run system tests with browsers
   gem 'webdrivers'
 end
+
+gem 'rails_admin', '~> 2.0'
