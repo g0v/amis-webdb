@@ -54,3 +54,5 @@ end
 
 gem 'rails_admin'
 gem 'devise'
+gem 'paper_trail'
+gem 'paper_trail-association_tracking'
