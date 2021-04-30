@@ -52,4 +52,5 @@ group :test do
   gem 'webdrivers'
 end
 
-gem 'rails_admin', '~> 2.0'
+gem 'rails_admin'
+gem 'devise'
